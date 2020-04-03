@@ -18,7 +18,7 @@ Template ini telah dimodifikasi agar dapat dapat digunakan dalam web server. Sya
 
 ## TENTANG CORE TEMPLATE :
 
-![01.Struktur_Folder](/htdocs/adminhima/gambar_readme/01.Struktur_Folder.png)
+![01.Struktur_Folder](/gambar_readme/01.Struktur_Folder.png)
 
 
 
@@ -98,7 +98,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
 - **CONTENT**
 
-  ![02.Conten_Basic](/htdocs/adminhima/gambar_readme/02.Conten_Basic.png)
+  ![02.Conten_Basic](/gambar_readme/02.Conten_Basic.png)
 
   Contoh :
 
@@ -112,7 +112,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
   hasil dari code di atasa adalah sebagai berikut :
 
-  ![02.Conten_Basic_Preview](/htdocs/adminhima/gambar_readme/02.Conten_Basic_Preview.png)
+  ![02.Conten_Basic_Preview](/gambar_readme/02.Conten_Basic_Preview.png)
 
   
 
@@ -120,7 +120,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
   Struktur awal dari form basic adalah sebagai berikut :
 
-  ![02.Form_Basic_Empty](/htdocs/adminhima/gambar_readme/02.Form_Basic_Empty.png)
+  ![02.Form_Basic_Empty](/gambar_readme/02.Form_Basic_Empty.png)
 
   
 
@@ -130,7 +130,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
   Hasil dari code diatas adalah sebagai berikut :
 
-  ![02.Form_Basic_Empty_Preview](/htdocs/adminhima/gambar_readme/02.Form_Basic_Empty_Preview.png)
+  ![02.Form_Basic_Empty_Preview](/gambar_readme/02.Form_Basic_Empty_Preview.png)
 
   
 
@@ -140,14 +140,14 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group input teks digunakan untuk inputan bertipe teks singkat seperti user name/akun/nama/tempat lahir/kecamatan/ dll. 
 
-     ![02.Form_Basic_01.Input_text](/htdocs/adminhima/gambar_readme/02.Form_Basic_01.Input_text.png)
+     ![02.Form_Basic_01.Input_text](/gambar_readme/02.Form_Basic_01.Input_text.png)
      
 
   2. **Group Input Angka**
 
      Group input angka digunakan untuk inputan bertipe angka (input hanya menerima angka 0 - 9) dapat digunakan untuk umur, mata uang, dan hal-hal lainnya yang akan digunakan untuk proses kalkulasi.
 
-     ![02.Form_Basic_02.Input_angka](/htdocs/adminhima/gambar_readme/02.Form_Basic_02.Input_angka.png)
+     ![02.Form_Basic_02.Input_angka](/gambar_readme/02.Form_Basic_02.Input_angka.png)
 
      
 
@@ -155,7 +155,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group input email digunakan untuk inputan email yang akan memvalidasi tanda **@** sebagai struktur email. Apabila inputan tidak valid, maka form tidak dapat disubmit.
 
-     ![02.Form_Basic_03.Input_email](/htdocs/adminhima/gambar_readme/02.Form_Basic_03.Input_email.png)
+     ![02.Form_Basic_03.Input_email](/gambar_readme/02.Form_Basic_03.Input_email.png)
 
      
 
@@ -163,7 +163,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group input sandi digunakan untuk inputan sandi/password, hasil inputan disamarkan dengan karakter `*` ataupun `.`
 
-     ![02.Form_Basic_04.Input_sandi](/htdocs/adminhima/gambar_readme/02.Form_Basic_04.Input_sandi.png)
+     ![02.Form_Basic_04.Input_sandi](/gambar_readme/02.Form_Basic_04.Input_sandi.png)
 
      
 
@@ -171,7 +171,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group text area pada prinsipnya sama dengan input text, namun dengan sedikit perbedaan penulisan. Text Area cenderung digunakan untuk inputan text yang panjang (kalimat) seperti komentar, alamat, dll.
 
-     ![02.Form_Basic_05.text_area](/htdocs/adminhima/gambar_readme/02.Form_Basic_05.text_area.png)
+     ![02.Form_Basic_05.text_area](/gambar_readme/02.Form_Basic_05.text_area.png)
 
      
 
@@ -179,7 +179,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group input file digunakan untuk input file dari perangkat, file yang biasa digunakan adalah file dokumen, gambar ataupun file multimedia, dan tidak menutup kemungkinan untuk file-file lainnya.
 
-     ![02.Form_Basic_06.input_file](/htdocs/adminhima/gambar_readme/02.Form_Basic_06.input_file.png)
+     ![02.Form_Basic_06.input_file](/gambar_readme/02.Form_Basic_06.input_file.png)
 
      
 
@@ -187,7 +187,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group Select digunakan untuk opsi daftar pilihan dinamis, yang bisa bertambah/berukurang (biasanya dari tabel di database).
 
-     ![02.Form_Basic_07.select](/htdocs/adminhima/gambar_readme/02.Form_Basic_07.select.png)
+     ![02.Form_Basic_07.select](/gambar_readme/02.Form_Basic_07.select.png)
 
      Yang menjadi catatan dalam group select ini, bahwa data yang akan dikirim ada pada tag `value="nilai"`, dan tag `selected` merupakan penanda bahwa nilai yang akan dikirm ada pada option yang terpilih.
 
@@ -197,7 +197,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group opsi check digunakan untuk pilihan statis yang opsinya dapat dipilih lebih dari 1, misalnya hobby, favorit, dll.
 
-     ![02.Form_Basic_07.check](/htdocs/adminhima/gambar_readme/02.Form_Basic_07.check.png)
+     ![02.Form_Basic_07.check](/gambar_readme/02.Form_Basic_07.check.png)
 
      
 
@@ -205,7 +205,7 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
      Group opsi radio digunakan untuk pilihan statis yang opsinya hanya dapat dipilih 1, misalnya agama, gender, dll.
 
-     ![02.Form_Basic_07.radio](/htdocs/adminhima/gambar_readme/02.Form_Basic_07.radio.png)
+     ![02.Form_Basic_07.radio](/gambar_readme/02.Form_Basic_07.radio.png)
 
      
 
@@ -213,18 +213,18 @@ Dalam pemahaman content, sangat disarankan untuk membaca komentar. Bagian yang a
 
       Group opsi hidden inputannya menggunakan code, tidak terlihat, dan tidak bisa diubah oleh user, biasanya berisi id, mode, dan fungsi-fungsi tambahan lainnya. Pada tutorial ini labe hanya penanda , pada implementasi, sebaiknya tidak menggunakan elemn `<label></label>` dan `value="nilai"` langsung diprogram
 
-      ![02.Form_Basic_08.hidden](/htdocs/adminhima/gambar_readme/02.Form_Basic_08.hidden.png)
+      ![02.Form_Basic_08.hidden](/gambar_readme/02.Form_Basic_08.hidden.png)
 
   
 
   Berikut kode lengkap form basic pada **halaman/form.php**  :
 
-  ![02.Form_Basic_full](/htdocs/adminhima/gambar_readme/02.Form_Basic_full.png)
+  ![02.Form_Basic_full](/gambar_readme/02.Form_Basic_full.png)
 
 
   Dan hasil dari kode diatas sebagai berikut :
 
-  ![02.Form_Basic_full_preview](/htdocs/adminhima/gambar_readme/02.Form_Basic_full_preview.png)
+  ![02.Form_Basic_full_preview](/gambar_readme/02.Form_Basic_full_preview.png)
 
   
 
