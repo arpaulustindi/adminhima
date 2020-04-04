@@ -12,7 +12,7 @@ $nama_pengguna = "Arifin Tindi";
 <html>
 <head>    
     <title><?php echo $aplikasi;?></title>
-    <?php include("part/head.php");?>
+    <?php include('part/head.php');?>
     <?php include('part/body.jquery.php');?>
     <!-- ***MULAI : Tambahan CSS -->
 
@@ -26,7 +26,6 @@ $nama_pengguna = "Arifin Tindi";
     <?php include('part/body.sidebar.akun.php');?>
     <?php include('part/body.sidebar.menu.php');?>
     </aside>
-    <?php include('part/body.content.head.php');?>
     <!-- ***SELESAI : JANGAN DIHAPUS***/.content-header -->
 
     <section class="content">  
